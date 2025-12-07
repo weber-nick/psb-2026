@@ -6,6 +6,6 @@ url: "https://weber-nick.pages.github.io/psb-2026/"
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
