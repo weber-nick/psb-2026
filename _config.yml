@@ -1,0 +1,12 @@
+title: NIH Workshop at PSB 2026
+email: webermn@nih.gov
+description: >-  
+  NIH @ PSB 2026
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://effective-winner-1eg97mz.pages.github.io/" # replace with actual username
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
