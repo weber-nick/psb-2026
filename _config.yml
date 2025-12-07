@@ -3,7 +3,7 @@ email: webermn@nih.gov
 description: >-  
   NIH @ PSB 2026
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://effective-winner-1eg97mz.pages.github.io/" # replace with actual username
+url: "https://weber-nick.pages.github.io/"
 
 # Build settings
 markdown: kramdown
