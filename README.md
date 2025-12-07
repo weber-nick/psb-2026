@@ -31,7 +31,7 @@ This workshop, organized by Ramwala, Weber, and Mooney, focuses on advancing com
 3. Click **Settings** > **Pages**.
 4. Under "Source," select the branch (usually `main`) and `/ (root)` folder.
 5. Save and wait for GitHub Pages to build and deploy your site.
-6. Your site will be available at `https://<your-github-username>.github.io/nih-psb-2026` (replace with your username).
+6. Your site will be available at `https://<your-github-username>.github.io/psb-2026` (replace with your username).
 
 **Note:** GitHub Pages will automatically build your site using Jekyll. You do not need to build locally unless you want to preview changes before publishing.
 
