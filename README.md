@@ -1,25 +1,3 @@
-## Creating a New GitHub Repository and Publishing
-
-1. Go to [github.com](https://github.com) and log in.
-2. Click the **+** icon (top right) and select **New repository**.
-3. Name your repository `nih-psb-2026` and set it to public (or private if preferred).
-4. Do NOT initialize with a README, .gitignore, or license (these files already exist locally).
-5. Click **Create repository**.
-6. In your terminal, run the following commands:
-	```sh
-	git init
-	git remote add origin https://github.com/<your-github-username>/nih-psb-2026.git
-	git add .
-	git commit -m "Initial site setup"
-	git branch -M main
-	git push -u origin main
-	```
-	Replace `<your-github-username>` with your actual GitHub username.
-7. Go to your repository on GitHub, then follow the Publishing to GitHub Pages instructions above.
-# nih-psb-2026
-
-This repository contains the static website for the NIH workshop at the Pacific Symposium on Biocomputing (PSB) 2026, led by O. Ramwala, N. Weber, and S. Mooney. The site is built with Jekyll for easy editing in Markdown and is intended for publication via GitHub Pages.
-
 ## About the Conference
 
 The Pacific Symposium on Biocomputing (PSB) is an international, multidisciplinary conference for the presentation and discussion of current research in the theory and application of computational methods in problems of biological significance. For more information, visit [psb.stanford.edu](https://psb.stanford.edu).
